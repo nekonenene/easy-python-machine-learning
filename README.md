@@ -18,7 +18,7 @@ source env/bin/activate
 で仮想環境に入ったのち、
 
 ```sh
-pip install jupyter requests beautifulsoup4
+pip install jupyter requests beautifulsoup4 janome
 ```
 
 が必要。
